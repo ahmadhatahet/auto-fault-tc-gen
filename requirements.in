@@ -1,0 +1,9 @@
+python-dotenv
+ipykernel
+ipywidgets
+openai
+groq
+matplotlib
+numpy
+pandas
+openpyxl
