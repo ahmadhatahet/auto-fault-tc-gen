@@ -47,7 +47,7 @@ pip install -e .
 ```
 
 
-# Paper Abstract
+# Abstract
 
 The most widely recognized testing method for the real-time validation of automotive software systems (ASSs) is Fault Injection (FI).
 
